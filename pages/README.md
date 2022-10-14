@@ -58,14 +58,14 @@ When using this dataset, users must cite the following:
 > [Tubbs AS, Hendershot S, Ghani SB, Nadorff MR, Drapeau CW, Fernandez FX, Perlis ML, Grandner MA. Social Jetlag and Other Aspects of Sleep Are Linked to Non-Suicidal Self-Injury Among College Students. Arch Suicide Res. 2022 Apr 7:1-18. doi: 10.1080/13811118.2022.2057262. Epub ahead of print. PMID: 35389330.](https://pubmed.ncbi.nlm.nih.gov/35389330/)
 
 Users must include the following text in any Acknowledgements:
-> The National Sleep Research Resource was supported by the U.S. National Institutes of Health, National Heart Lung and Blood Institute (R24 HL114473, 75N92019R002).
+- The National Sleep Research Resource was supported by the U.S. National Institutes of Health, National Heart Lung and Blood Institute (R24 HL114473, 75N92019R002).
  
  
 ## References
->	ANSWERS on the National Sleep Research Resource (NSRR): https://sleepdata.org/datasets/answers/
+ANSWERS on the National Sleep Research Resource (NSRR): https://sleepdata.org/datasets/answers/
 
->	NSRR ANSWERS GitHub Data Dictionary: https://github.com/nsrr/answers-data-dictionary
+NSRR ANSWERS GitHub Data Dictionary: https://github.com/nsrr/answers-data-dictionary
 
 
 ## Recent Changes
-> Find a complete list of changes in the [CHANGELOG.md](:pages_path:/CHANGELOG.md)
+Find a complete list of changes in the [CHANGELOG.md](:pages_path:/CHANGELOG.md)
