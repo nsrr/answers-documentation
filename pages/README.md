@@ -60,7 +60,6 @@ Users must include the following text in any Acknowledgements:
 >	ANSWERS on the National Sleep Research Resource (NSRR): https://sleepdata.org/datasets/answers/
 
 >	NSRR ANSWERS GitHub Data Dictionary: https://github.com/nsrr/answers-data-dictionary
-![image](https://user-images.githubusercontent.com/96704544/195895437-d297b386-831a-431b-9a06-f0e4922599b4.png)
 
 ## Recent Changes
 > Find a complete list of changes in the [CHANGELOG.md](:pages_path:/CHANGELOG.md)
