@@ -66,7 +66,7 @@ ANSWERS on the National Sleep Research Resource (NSRR): https://sleepdata.org/da
 
 NSRR ANSWERS GitHub Data Dictionary: https://github.com/nsrr/answers-data-dictionary
 
-NSRR ANSWERS Documentation: https://github.com/nsrr/answers-documentation
+NSRR ANSWERS GitHub Documentation: https://github.com/nsrr/answers-documentation
 
 
 ## Questions?
