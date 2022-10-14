@@ -27,14 +27,14 @@ The ANSWERS Questionnaire form is available for review (see: ‘forms’ folder)
  
  
 ## Data de-identification
-Data are de-identified in that name, date of birth, and any other contact details have been removed. Each individual is identified only by an “ID” variable, which is a random number.
+Data are de-identified in that name, date of birth, and any other contact details have been removed. Each individual is identified only by an “id” variable, which is a random number.
 
 
 ## Data overview
 Covariate/phenotype datasets (CSV)
-The covariate dataset files (answers- dataset-0.1.0.csv and answers-harmonized-dataset-0.1.0.csv) contain 971 rows each. The first column (ID) is the unique ANSWERS subject identifier. 
+The covariate dataset files (answers- dataset-0.1.0.csv and answers-harmonized-dataset-0.1.0.csv) contain 971 rows each. The first column (id) is the unique ANSWERS subject identifier. 
 
-The dataset columns are described in the accompanying data dictionary files. The variables data dictionary file includes column names (ID), labels (display names), descriptions, and other metadata. Categorical variables also include an associated “domain” (e.g., 0=Male, 1=Female), which are described in the domains data dictionary file. The forms data dictionary files provide links between variables and the sleep questionnaire form.
+The dataset columns are described in the accompanying data dictionary files. The variables data dictionary file includes column names (id), labels (display names), descriptions, and other metadata. Categorical variables also include an associated “domain” (e.g., 0=Male, 1=Female), which are described in the domains data dictionary file. The forms data dictionary files provide links between variables and the sleep questionnaire form.
 The history of the covariate dataset and data dictionary files have been tracked on GitHub (https://github.com/nsrr/answers-data-dictionary). 
 The harmonized-dataset contains many of the most frequently used demographic variables. These variables were curated by the NSRR team to allow ready inter-operability with other NSRR datasets. Key variables include:
 -	nsrr_age – Subject age
