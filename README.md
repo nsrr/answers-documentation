@@ -49,7 +49,7 @@ Non-commercial use only.
 
 When using this dataset, users must cite the following:
 
-> [Zhang GQ, Cui L, Mueller R, Tao S, Kim M, Rueschman M, Mariani S, Mobley D, Redline S. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358. doi: 10.1093/jamia/ocy064. PMID: 29860441; PMCID: PMC6188513.(https://pubmed.ncbi.nlm.nih.gov/29860441/)
+> [Zhang GQ, Cui L, Mueller R, Tao S, Kim M, Rueschman M, Mariani S, Mobley D, Redline S. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358. doi: 10.1093/jamia/ocy064. PMID: 29860441; PMCID: PMC6188513.](https://pubmed.ncbi.nlm.nih.gov/29860441/)
 
 > [Tubbs AS, Hendershot S, Ghani SB, Nadorff MR, Drapeau CW, Fernandez FX, Perlis ML, Grandner MA. Social Jetlag and Other Aspects of Sleep Are Linked to Non-Suicidal Self-Injury Among College Students. Arch Suicide Res. 2022 Apr 7:1-18. doi: 10.1080/13811118.2022.2057262. Epub ahead of print. PMID: 35389330.](https://pubmed.ncbi.nlm.nih.gov/35389330/)
 
