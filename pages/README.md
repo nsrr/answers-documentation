@@ -1,15 +1,15 @@
 ## Background
 Assessing Nocturnal Sleep/Wake Effects on Risk of Suicide Phase I Study (ANSWERS) Phase I Study was a cross-sectional survey conducted among undergraduate students to evaluate sleep continuity, timing, quality, and disorders in conjunction with general mental health and suicidal thoughts and behaviors. The ultimate goal of the study was to guide subsequent longitudinal studies of sleep and suicidal thoughts and behaviors among undergraduates. The phase I study was conducted from June 2020 to June 2021.
 
-The NSRR ANSWERS dataset includes demographic and survey questionnaire data of 971 young adult participants (18 to 25 years old).
+The NSRR ANSWERS dataset includes demographic and survey questionnaire data of 971 young adult participants.
 
 ## Methods: Survey Forms
 
-The ANSWERS survey questionnaire was meant to measure primary exposures such as self-reported Insomnia severity, nightmare severity, sleep duration, time in bed, sleep efficiency, total wake time, sleep quality, sleep onset, sleep offset, chronotype, absolute and relative social jetlag, as well as secondary exposures such as sleep latency, wake after sleep onset, early morning awakenings, anxiety, depression, alcohol use, cannabis use, tobacco use, thwarted belongingness, perceived burdensomeness, and impulsivity.
+The ANSWERS survey questionnaire was meant to measure primary exposures such as self-reported insomnia severity, nightmare severity, sleep duration, time in bed, sleep efficiency, total wake time, sleep quality, sleep onset, sleep offset, chronotype, absolute and relative social jetlag, as well as secondary exposures such as sleep latency, wake after sleep onset, early morning awakenings, anxiety, depression, alcohol use, cannabis use, tobacco use, thwarted belongingness, perceived burdensomeness, and impulsivity.
 
 The following validated survey instruments were implemented:
 
--	Pittsburgh sleep quality index
+-	Pittsburgh Sleep Quality Index
 -	Brief Inventory of Sleep Control
 -	Insomnia Severity Index
 -	Short UPPS-P measure of impulsivity
@@ -20,17 +20,16 @@ The following validated survey instruments were implemented:
 -	Disturbing Dreams and Nightmares Severity Index
 -	Interpersonal Needs Questionnaire
 
-The ANSWERS Questionnaire form is available for review (see: 'forms' folder). 
+The ANSWERS Questionnaire form is available for review (see: '[forms](:files_path:/forms)' folder). 
 -	ANSWERS_Survey.doc
- 
- 
+
 ## Data de-identification
 
 Data are de-identified in that name, date of birth, and any other contact details have been removed. Each individual is identified only by an **id** variable, which is a random number.
 
 ## Data overview
 
-The covariate dataset files (answers-dataset-0.1.0.csv and answers-harmonized-dataset-0.1.0.csv) contain 971 rows each. The first column (**id**) is the unique ANSWERS subject identifier. 
+The [covariate dataset files](:files_path:/datasets) (answers-dataset-0.1.0.csv and answers-harmonized-dataset-0.1.0.csv) contain 971 rows each. The first column (**id**) is the unique ANSWERS subject identifier. 
 
 The dataset columns are described in the accompanying data dictionary files. The variables data dictionary file includes column names (**id**), labels (display names), descriptions, and other metadata. Categorical variables also include an associated "domain" (e.g., 0=Male, 1=Female), which are described in the domains data dictionary file. The forms data dictionary files provide links between variables and the sleep questionnaire form.
 
@@ -38,12 +37,12 @@ The history of the covariate dataset and data dictionary files have been tracked
 
 The harmonized-dataset contains many of the most frequently used demographic variables. These variables were curated by the NSRR team to allow ready inter-operability with other NSRR datasets. Key variables include:
 
--	nsrr_age – Subject age
--	nsrr_sex – Subject sex
--	nsrr_race – Subject race
--	nsrr_ethnicity – Subject ethnicity
--	nsrr_current_smoker – Currently smoking cigarettes
--	nsrr_ever_smoker – Ever smoked cigarettes
+-	[nsrr_age](https://sleepdata.org/datasets/answers/variables/nsrr_age) – Subject age
+-	[nsrr_sex](https://sleepdata.org/datasets/answers/variables/nsrr_sex) – Subject sex
+-	[nsrr_race](https://sleepdata.org/datasets/answers/variables/nsrr_race) – Subject race
+-	[nsrr_ethnicity](https://sleepdata.org/datasets/answers/variables/nsrr_ethnicity) – Subject ethnicity
+-	[nsrr_current_smoker](https://sleepdata.org/datasets/answers/variables/nsrr_current_smoker) – Currently smoking cigarettes
+-	[nsrr_ever_smoker](https://sleepdata.org/datasets/answers/variables/nsrr_ever_smoker) – Ever smoked cigarettes
 
 ## Access and usage restrictions
 
