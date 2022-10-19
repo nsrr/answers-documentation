@@ -20,8 +20,9 @@ The following validated survey instruments were implemented:
 -	Disturbing Dreams and Nightmares Severity Index
 -	Interpersonal Needs Questionnaire
 
-The ANSWERS Questionnaire form is available for review (see: '[forms](:files_path:/forms)' folder). 
--	ANSWERS_Survey.doc
+The ANSWERS Questionnaire form is available for review:
+
+-	[Tubbs_ANSWERS_Survey.pdf](:files_path:/forms/Tubbs_ANSWERS_Survey.pdf)
 
 ## Data de-identification
 
