@@ -1,5 +1,5 @@
 ## Background
-Assessing Nocturnal Sleep/Wake Effects on Risk of Suicide Phase I Study (ANSWERS) Phase I Study was a cross-sectional survey conducted among undergraduate students to evaluate sleep continuity, timing, quality, and disorders in conjunction with general mental health and suicidal thoughts and behaviors. The ultimate goal of the study was to guide subsequent longitudinal studies of sleep and suicidal thoughts and behaviors among undergraduates. The phase I study was conducted from June 2020 to June 2021.
+Assessing Nocturnal Sleep/Wake Effects on Risk of Suicide Phase I Study (ANSWERS) was a cross-sectional survey conducted among undergraduate students to evaluate sleep continuity, timing, quality, and disorders in conjunction with general mental health and suicidal thoughts and behaviors. The ultimate goal of the study was to guide subsequent longitudinal studies of sleep and suicidal thoughts and behaviors among undergraduates. The phase I study was conducted from June 2020 to June 2021.
 
 The NSRR ANSWERS dataset includes demographic and survey questionnaire data of 971 young adult participants.
 
